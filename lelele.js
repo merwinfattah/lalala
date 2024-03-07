@@ -1,5 +1,5 @@
 const user = {
-    name: "Dariushuke",
+    name: "Okanehire",
     talent: "Eye of Mirror",
     element: [water, lightning, wind],
     senjutsu: "",
